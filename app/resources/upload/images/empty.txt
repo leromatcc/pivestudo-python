@@ -1,0 +1,1 @@
+armazena imagens enviadas atraves do endpoint upload

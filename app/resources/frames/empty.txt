@@ -1,0 +1,1 @@
+armazena imagens que podem ser utilizadas para extracao da placa identificacao veicular atraves da previsao da landing.ai
